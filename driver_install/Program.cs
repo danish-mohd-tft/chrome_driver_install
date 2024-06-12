@@ -127,7 +127,7 @@ try
 {
     // Log.LogMessage($"starting executioin chromdriver");
     //var path = AppDirectoryInfo.currentAssemblyLoadDirectoryForProcess();
-    var path = "C:\\Program Files (x86)\\TFT\\BotRunner";
+    var path = "C:\\Program Files (x86)\\Think Future Technologies\\TFT_Bot_Runner";
     string chromedriverPath = "";
     string applicaitonchromeversionversion = "";
     string finalpath = path;
